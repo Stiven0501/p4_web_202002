@@ -1,0 +1,8 @@
+git config --global user.name "Stiven0501"
+git config user.name
+
+git config --global user.email "soporte@cableaereomanizales.gov.co"
+git config --global user.email
+
+git config --global user.password "Universidad2020"
+git config --global --list 
